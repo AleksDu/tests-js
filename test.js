@@ -42,19 +42,3 @@ describe("pow", function () {
 // console.log(counterA());
 // console.log(counterA());
 
-// const input = [1, 2, 3, 4];
-// function reverses(array) {
-//   let output = [];
-//   while (array.length) {
-//     output.push(array.pop());
-//   }
-//   return output;
-// }
-// console.log(reverses(input));
-
-// Задача на тестах
-// const input = [1, 2, 3, 4].reduce(function (acc, current) {
-//   acc.unshift(current);
-//   return acc;
-// }, []);
-// console.log(input);
